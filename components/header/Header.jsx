@@ -19,12 +19,11 @@ const Header = () => {
 
         <Link href="/">
           <Image
-            className="h-[26px] lg:h-[32px]"
-            width={153}
-            height={26}
+            className="h-[200px] lg:h-[150px]"
+            width={250}
+            height={200}
             priority
-            src="/images/logo/logo.png"
-            // src="/images/rehanLogo.jpeg"
+            src="/images/logo/Nomanlogo.png"
             alt="logo"
           />
         </Link>
